@@ -2,7 +2,7 @@
 
 _Les comento un poco de mi:_
 
-Llevo más de 20 años trabajando como paseador y entrenador de perros, amo mi trabajo, porque me permite interactuar y entablar una relación afectuosa y de respeto con mis clientes, lo que me ha permitido establecer una buena relación con ellos, al igual que con los perros, además de eso, en mis tiempos libres, me dedico al desarrollo web, algo que me apasiona hacer, sobre todo, el Front-End, pero esto es algo que lo tomo como un hobbie, para salir de la rutina de mi trabajo.
+Llevo más de 20 años trabajando como paseador y entrenador de perros, amo mi trabajo, porque me permite interactuar y establecer una relación afectuosa y de mutuo respeto con los clientes, gracias a ello, he logrado consolidar una buena amistad con ellos, al igual que con los perros con los que trabajo y he trabajado a lo largo de los años, además de eso, en mis tiempos libres, me dedico al desarrollo web, algo que me apasiona hacer, sobre todo, el Front-End, pero esto es algo que lo tomo como un hobbie, para salir de la rutina de mi trabajo.
 
 ## Lenguajes
 
